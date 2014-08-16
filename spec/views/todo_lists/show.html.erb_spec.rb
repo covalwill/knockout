@@ -1,5 +1,5 @@
 require 'spec_helper'
-
+require 'rspec/active_model/mocks'
 describe "todo_lists/show" do
   before(:each) do
     @todo_list = assign(:todo_list, stub_model(TodoList,
