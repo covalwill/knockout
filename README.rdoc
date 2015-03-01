@@ -1,2 +1,4 @@
-== KNOCKOUT - A To-Do Application
+== KNOCKOUT - A To-Do Application ==
+
+Ruby Based
 
