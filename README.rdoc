@@ -1,9 +1,2 @@
 == KNOCKOUT - A To-Do Application
 
-A easy online browser based To-Do List application.
-
-This is built on Ruby on Rails
-
-rspec-rails 3.0.0 
-
-capybara  2.4.1
